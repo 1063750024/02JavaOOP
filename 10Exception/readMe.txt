@@ -96,6 +96,21 @@ try ,catch ,finally是三个独立的代码块！
 前提：
     自定义异常类必须继承 RuntimeException,Exception,Throwable三者中的其中一个！
     
+    创建一个Student类
+      属性
+        age
+        sex
+        name
+  需求：
+   当用户输入的sex不正确时  抛出 自定义异常的信息!说 性别不合法!!      
+        
+        
+    
+    
+    
+    
+    
+    
 
 
 常见的异常类型：
